@@ -1,3 +1,4 @@
+//Creado por Nesved Londoño Quintero y Santiago Ospina
 import java.util.Scanner;
 public class TankWars {
     public static void main(String[] args) {
